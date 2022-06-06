@@ -1,0 +1,15 @@
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.csproj.AssemblyReference.cache
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.AssemblyInfoInputs.cache
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.AssemblyInfo.cs
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.csproj.CoreCompileInputs.cache
+F:\C#_seminar\Chapter_1\Quest_1\bin\Debug\net6.0\Quest_1.exe
+F:\C#_seminar\Chapter_1\Quest_1\bin\Debug\net6.0\Quest_1.deps.json
+F:\C#_seminar\Chapter_1\Quest_1\bin\Debug\net6.0\Quest_1.runtimeconfig.json
+F:\C#_seminar\Chapter_1\Quest_1\bin\Debug\net6.0\Quest_1.dll
+F:\C#_seminar\Chapter_1\Quest_1\bin\Debug\net6.0\Quest_1.pdb
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.dll
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\refint\Quest_1.dll
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.pdb
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\Quest_1.genruntimeconfig.cache
+F:\C#_seminar\Chapter_1\Quest_1\obj\Debug\net6.0\ref\Quest_1.dll
