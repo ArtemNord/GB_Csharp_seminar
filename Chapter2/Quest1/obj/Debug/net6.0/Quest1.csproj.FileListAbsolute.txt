@@ -1,0 +1,15 @@
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\bin\Debug\net6.0\Quest1.exe
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\bin\Debug\net6.0\Quest1.deps.json
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\bin\Debug\net6.0\Quest1.runtimeconfig.json
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\bin\Debug\net6.0\Quest1.dll
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\bin\Debug\net6.0\Quest1.pdb
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.csproj.AssemblyReference.cache
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.AssemblyInfoInputs.cache
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.AssemblyInfo.cs
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.csproj.CoreCompileInputs.cache
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.dll
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\refint\Quest1.dll
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.pdb
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\Quest1.genruntimeconfig.cache
+D:\GB\GB_C#\GB_Csharp_seminar\Chapter2\Quest1\obj\Debug\net6.0\ref\Quest1.dll
