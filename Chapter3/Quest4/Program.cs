@@ -9,4 +9,6 @@ void Method(int N)
     }
 }
 
+Method(Number);
+
 // не доделано
